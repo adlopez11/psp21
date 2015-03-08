@@ -1,0 +1,47 @@
+Aplicacion #5 Reutilizada
+
+Nombre: psp2
+Numero de Clases: 7
+Total LOC: 206
+
+Clases:
+
+Nombre Clase: SimpsonControl
+LOC Clase: 45
+Numero de Metodos: 5
+
+Nombre Clase: GammaException
+LOC Clase: 8
+Numero de Metodos: 0
+
+Nombre Clase: Main
+LOC Clase: 31
+
+Nombre Clase: GammaUtil
+LOC Clase: 20
+
+Nombre Clase: TDistributionUtil
+LOC Clase: 12
+
+Nombre Clase: SimpsonControlTest
+LOC Clase: 51
+
+
+Aplicacion #6
+
+Nombre: psp21
+Numero de Clases: 8
+Total LOC: 285 ## Nuevas 130
+Clases:
+
+Nombre Clase: SimpsonInverseControl
+LOC Clase: 70
+
+Nombre Clase: Main
+LOC Clase: 31 ## Modificados 8
+
+Nombre Clase: MainWeb
+LOC Clase: 39 ## Modificados 7
+
+Nombre Clase: SimpsonInverseControlTest
+LOC Clase: 60
