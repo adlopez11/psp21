@@ -1,0 +1,61 @@
+Aplicacion #5
+
+Nombre: psp2
+Numero de Clases: 7
+Total LOC: 206
+Clases:
+
+Nombre Clase: SimpsonControl
+LOC Clase: 45
+Numero de Metodos: 5
+Metodos:
+Nombre Metodo: operar
+LOC Metodo: 8
+Nombre Metodo: getP
+LOC Metodo: 3
+Nombre Metodo: getW
+LOC Metodo: 3
+Nombre Metodo: getSumaImpar
+LOC Metodo: 7
+Nombre Metodo: getSumaPar
+LOC Metodo: 7
+Nombre Clase: GammaException
+LOC Clase: 8
+Numero de Metodos: 0
+Metodos:
+Nombre Clase: Main
+LOC Clase: 31
+Numero de Metodos: 1
+Metodos:
+Nombre Metodo: main
+LOC Metodo: 23
+Nombre Clase: MainWeb
+LOC Clase: 39
+Numero de Metodos: 1
+Metodos:
+Nombre Metodo: main
+LOC Metodo: 9
+Nombre Clase: GammaUtil
+LOC Clase: 20
+Numero de Metodos: 1
+Metodos:
+Nombre Metodo: f
+LOC Metodo: 14
+Nombre Clase: TDistributionUtil
+LOC Clase: 12
+Numero de Metodos: 0
+Metodos:
+Nombre Clase: SimpsonControlTest
+LOC Clase: 51
+Numero de Metodos: 5
+Metodos:
+Nombre Metodo: setUp
+LOC Metodo: 3
+Nombre Metodo: tearDown
+LOC Metodo: 3
+Nombre Metodo: testGetP1
+LOC Metodo: 11
+Nombre Metodo: testGetP2
+LOC Metodo: 11
+Nombre Metodo: testGetP3
+LOC Metodo: 11

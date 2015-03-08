@@ -1,0 +1,26 @@
+LOC de Aplicaciones
+
+Aplicacion #1
+
+Nombre: psp0
+Numero de Clases: 6
+Total LOC: 122
+
+Aplicacion #2
+
+Nombre: psp01
+Numero de Clases: 8
+Total LOC: 300
+
+Aplicacion #3
+
+Nombre: psp1
+Numero de Clases: 8
+Total LOC: 338
+
+Aplicacion #4
+
+Nombre: psp11
+Numero de Clases: 6
+Total LOC: 209    ## Menos 40 lineas reutilizadas
+
